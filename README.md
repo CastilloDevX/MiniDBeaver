@@ -186,7 +186,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Jose Manuel Castillo Queh**
 
-- GitHub:[CastilloDevX](https://github.com/CastilloDevX
+- GitHub:[CastilloDevX](https://github.com/CastilloDevX)
 
 ---
 
